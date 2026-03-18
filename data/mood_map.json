@@ -1,0 +1,14 @@
+{
+  "meow":         { "mood": "Happy",   "emoji": "😸", "pct": 70, "color": "green"  },
+  "multiple_meow":{ "mood": "Hungry",  "emoji": "😿", "pct": 90, "color": "orange" },
+  "long_meow":    { "mood": "Annoyed", "emoji": "😾", "pct": 65, "color": "orange" },
+  "low_meow":     { "mood": "Upset",   "emoji": "😾", "pct": 60, "color": "orange" },
+  "purr":         { "mood": "Happy",   "emoji": "😻", "pct": 85, "color": "green"  },
+  "hiss":         { "mood": "Angry",   "emoji": "🙀", "pct": 80, "color": "red"    },
+  "growl":        { "mood": "Angry",   "emoji": "🙀", "pct": 95, "color": "red"    },
+  "chirp":        { "mood": "Playful", "emoji": "😹", "pct": 75, "color": "blue"   },
+  "trill":        { "mood": "Loving",  "emoji": "😻", "pct": 80, "color": "green"  },
+  "yowl":         { "mood": "Sad",     "emoji": "😿", "pct": 85, "color": "red"    },
+  "silent_meow":  { "mood": "Trusting","emoji": "🥰", "pct": 95, "color": "green"  },
+  "chatter":      { "mood": "Annoyed", "emoji": "😾", "pct": 55, "color": "orange" }
+}
