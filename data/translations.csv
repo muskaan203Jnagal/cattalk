@@ -1,0 +1,13 @@
+sound_key,sound_label,meaning,intensity,context,human_translation_en,human_translation_hi
+meow,Short Meow,Greeting,Low,Morning or entering room,Hello hooman! Good to see you!,हेलो इंसान! तुम्हें देखकर अच्छा लगा!
+multiple_meow,Multiple Meows,Demand / Hungry,High,Near food bowl,Feed me RIGHT NOW! I am starving!,मुझे अभी खाना दो! मैं भूखी हूँ!
+long_meow,Long Meow,Complaint / Annoyed,Medium,Being ignored,Why are you ignoring me?! Pay attention!,तुम मुझे ignore क्यों कर रहे हो?!
+low_meow,Low Pitched Meow,Displeasure,Medium,Unwanted action done,I do NOT like this. Stop it now.,मुझे यह बिल्कुल पसंद नहीं। रुको!
+purr,Purring,Happy / Content,Low,Being petted or resting,I am so happy right now. Keep petting me!,मैं बहुत खुश हूँ। मुझे और प्यार करो!
+hiss,Hissing,Angry / Scared,Very High,Threat or danger nearby,BACK OFF. I mean it. Do not come closer.,दूर रहो। मैं सच में कह रही हूँ!
+growl,Growling,Serious warning,Very High,Extreme threat,This is your FINAL warning. I will attack.,यह आखिरी चेतावनी है। मैं हमला करूँगी।
+chirp,Chirping,Playful / Excited,Low,Watching birds or prey,I see a bird! I want it SO bad! Let me out!,मुझे एक चिड़िया दिख रही है! मुझे जाने दो!
+trill,Trilling,Affectionate / Greeting,Low,Approaching owner,Hey I like you! Come follow me somewhere!,अरे मुझे तुमसे प्यार है! मेरे साथ आओ!
+yowl,Yowling,Distress / Pain,Very High,Sick or in pain or lost,I am not okay. Something hurts. Help me please.,मैं ठीक नहीं हूँ। कुछ दर्द हो रहा है। मदद करो!
+silent_meow,Silent Meow,Ultimate trust,Low,Very comfortable with owner,I trust you completely. You are my favorite human.,मुझे तुम पर पूरा भरोसा है। तुम मेरे सबसे प्यारे हो!
+chatter,Chattering,Frustration,Medium,Cannot reach prey,I can see it but I cannot get it! So frustrating!,मैं देख तो सकती हूँ पर पकड़ नहीं सकती! कितनी बेकार बात है!
